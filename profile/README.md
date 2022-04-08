@@ -3,4 +3,4 @@
 ### Members: [@NicPWNs](https://github.com/NicPWNs) & [@dev-yeoj](https://github.com/Dev-Yeoj)
 
 
-![Profile Counter](https://komarev.com/ghpvc/?username=UNICORDev&color=red)
+![Profile Counter](https://komarev.com/ghpvc/?username=UNICORDev&color=blue)
