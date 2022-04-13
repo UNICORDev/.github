@@ -4,3 +4,5 @@
 <a class="github-button" href="https://github.com/UNICORDev" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @UNICORDev on GitHub">Follow @UNICORDev</a>
 
 ### Members: [@NicPWNs](https://github.com/NicPWNs) & [@dev-yeoj](https://github.com/Dev-Yeoj)
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
