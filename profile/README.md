@@ -11,3 +11,4 @@
 ## Our Mission
 
 ## Our Exploits
+For educational and authorized security research purposes only.
