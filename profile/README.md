@@ -7,3 +7,7 @@
 ### Members: [@NicPWNs](https://github.com/NicPWNs) & [@Dev-Yeoj](https://github.com/Dev-Yeoj)
 
 ## What We Do
+
+## Our Mission
+
+## Our Exploits
