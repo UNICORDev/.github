@@ -11,7 +11,7 @@ We create consistent, reliable, and easy-to-use cyber exploits and tools. For ed
 Our goal is to release one new, refactored, or code-ported exploit a week.
 
 ## Where
-All of our content is open-source and located [here](https://unicord.dev), on GitHub.
+All of our content is open-source and located [here](https://unicord.dev) on GitHub.
 
 ## Why
 We want to make contributions to the information security community while we learn along the way.
