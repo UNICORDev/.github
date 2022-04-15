@@ -5,13 +5,13 @@
 [@UNICORDev](https://unicord.dev) by ([@NicPWNs](https://github.com/NicPWNs) and [@Dev-Yeoj](https://github.com/Dev-Yeoj))
 
 ## What
-We create consistent, reliable, and easy-to-use exploits and tools. For educational and authorized security research purposes only.
+We create consistent, reliable, and easy-to-use cyber exploits and tools. For educational and authorized security research purposes only.
 
 ## When
 Our goal is to release one new, refactored, or code-ported exploit a week.
 
 ## Where
-All of our content is open-source and located [here](https://unicord.dev) on GitHub.
+All of our content is open-source and located [here](https://unicord.dev), on GitHub.
 
 ## Why
 We want to make contributions to the information security community while we learn along the way.
