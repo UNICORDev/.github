@@ -7,7 +7,7 @@
 ### Members: [@NicPWNs](https://github.com/NicPWNs) & [@Dev-Yeoj](https://github.com/Dev-Yeoj)
 
 ## What We Do
-We create consistent, reliable, and easy-to-use exploits for popular CVEs. For educational and authorized security research purposes only.
+We create consistent, reliable, and easy-to-use exploits and tools. For educational and authorized security research purposes only.
 
 ## Our Exploits
 
