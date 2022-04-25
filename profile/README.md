@@ -7,8 +7,6 @@
                                         ! !  !          \____/_/|_/___/\___/\____/_/|_/____/ 
 
 
-![Screenshot 2022-04-24 232046](https://user-images.githubusercontent.com/23003787/165015530-827a1fc2-5900-4b73-a2c7-3482da1b389e.png)
-
 ## Who
 [@UNICORDev](https://unicord.dev) by ([@NicPWNs](https://github.com/NicPWNs) and [@Dev-Yeoj](https://github.com/Dev-Yeoj))
 
