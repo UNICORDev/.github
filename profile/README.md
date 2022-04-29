@@ -23,7 +23,7 @@ All of our content is open-source and located [here](https://unicord.dev) on Git
 We want to make contributions to the information security community while we learn along the way.
 
 ## Exploits
-- [Exploit for CVE-2021-22204](https://github.com/UNICORDev/exploit-CVE-2021-22204) (ExifTool)
+- [Exploit for CVE-2021-22204 (ExifTool)](https://github.com/UNICORDev/exploit-CVE-2021-22204)
 
 ## Tools
 - [BOSS - Buffer Overflow the Stack Script](https://github.com/UNICORDev/BOSS) (Coming Soon!)
