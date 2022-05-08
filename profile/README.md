@@ -24,6 +24,7 @@ We want to make contributions to the information security community while we lea
 
 ## Exploits
 - [Exploit for CVE-2021-22204 (ExifTool)](https://github.com/UNICORDev/exploit-CVE-2021-22204)
+- [Exploit for CVE-2021–3560 (polkit)](https://github.com/UNICORDev/exploit-CVE-2021–3560) (Coming Soon!)
 
 ## Tools
 - [BOSS - Buffer Overflow the Stack Script](https://github.com/UNICORDev/BOSS) (Coming Soon!)
