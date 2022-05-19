@@ -14,7 +14,7 @@
 We create consistent, reliable, and easy-to-use cyber exploits and tools. For educational and authorized security research purposes only.
 
 ## When
-Our goal is to release one new, refactored, or code-ported exploit a week.
+Our goal is to release one new, refactored, or code-ported exploit every two weeks.
 
 ## Where
 All of our content is open-source and located [here](https://unicord.dev) on GitHub.
