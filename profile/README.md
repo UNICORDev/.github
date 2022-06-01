@@ -1,14 +1,6 @@
 # UNICORD - Unified Cyber Open-source Research & Development
-
 ![GitHub Cover](https://user-images.githubusercontent.com/23003787/171518481-f246a6c5-473f-4076-bcd6-3cfe094ac321.png)
-
 ![Profile Counter](https://komarev.com/ghpvc/?username=UNICORDev&color=blue)
-
-                                        _ __,~~~/_        __  ___  _______________  ___  ___      
-                                    ,~~`( )_( )-\|       / / / / |/ /  _/ ___/ __ \/ _ \/ _ \
-                                        |/|  `--.       / /_/ /    // // /__/ /_/ / , _/ // /
-                                        ! !  !          \____/_/|_/___/\___/\____/_/|_/____/ 
-
 
 ## Who
 [@UNICORDev](https://unicord.dev) by ([@NicPWNs](https://github.com/NicPWNs) and [@Dev-Yeoj](https://github.com/Dev-Yeoj))
