@@ -18,13 +18,10 @@ All of our content is open-source and located [here](https://unicord.dev) on Git
 We want to make contributions to the information security community while we learn along the way.
 
 ## Exploits
-- [Exploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution](https://github.com/UNICORDev/exploit-CVE-2021-22204)
+- [Exploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution](https://github.com/UNICORDev/exploit-CVE-2021-22204) OR ON [ExploitDB](https://www.exploit-db.com/exploits/50911)
 - [Exploit for CVE-2021–3560 (Polkit) - Local Privilege Escalation](https://github.com/UNICORDev/exploit-CVE-2021-3560)
 - [Exploit for CVE-2020-5844 (Pandora FMS) - Remote Code Execution](https://github.com/UNICORDev/exploit-CVE-2020-5844)
 - [Exploit for CVE-2021-32099 (Pandora FMS) - SQL Injection](https://github.com/UNICORDev/exploit-CVE-2021-32099) (Coming Soon!)
 
 ## Tools
 - [BOSS - Buffer Overflow the Stack Script](https://github.com/UNICORDev/BOSS) (Coming Soon!)
-
-## ExploitDB
-- [Exploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution](https://www.exploit-db.com/exploits/50911)
