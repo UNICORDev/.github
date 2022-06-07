@@ -25,3 +25,6 @@ We want to make contributions to the information security community while we lea
 
 ## Tools
 - [BOSS - Buffer Overflow the Stack Script](https://github.com/UNICORDev/BOSS) (Coming Soon!)
+
+## ExploitDB
+- [Exploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution](https://www.exploit-db.com/exploits/50911)
