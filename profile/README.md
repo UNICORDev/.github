@@ -21,7 +21,6 @@ We want to make contributions to the information security community while we lea
 - [Exploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution](https://github.com/UNICORDev/exploit-CVE-2021-22204) also on [ExploitDB](https://www.exploit-db.com/exploits/50911)
 - [Exploit for CVE-2021–3560 (Polkit) - Local Privilege Escalation](https://github.com/UNICORDev/exploit-CVE-2021-3560)
 - [Exploit for CVE-2020-5844 (Pandora FMS) - Remote Code Execution](https://github.com/UNICORDev/exploit-CVE-2020-5844) also on [ExploitDB](https://www.exploit-db.com/exploits/50961)
-- [Exploit for CVE-2021-32099 (Pandora FMS) - SQL Injection](https://github.com/UNICORDev/exploit-CVE-2021-32099) (Coming Soon!)
 
 ## Tools
 - [BOSS - Buffer Overflow the Stack Script](https://github.com/UNICORDev/BOSS) (Coming Soon!)
