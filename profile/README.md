@@ -25,3 +25,5 @@ We want to make contributions to the information security community while we lea
 
 ## Tools
 - [BOSS - Buffer Overflow the Stack Script](https://github.com/UNICORDev/BOSS) (Coming Soon!)
+
+> Some of our exploits are listed on [ExploitDB](https://www.exploit-db.com/?author=11629)!
