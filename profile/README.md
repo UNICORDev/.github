@@ -13,7 +13,7 @@ We create consistent, reliable, and easy-to-use cyber exploits and tools. For ed
 
 ## When
 
-Our goal is to release one new, refactored, or code-ported exploit every two weeks.
+Our goal is to release one new, refactored, or code-ported exploit every month.
 
 ## Where
 
