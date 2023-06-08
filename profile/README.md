@@ -30,7 +30,7 @@ We want to make contributions to the information security community while we lea
 - [Exploit for CVE-2021-22204 (ExifTool) - Arbitrary Code Execution](https://github.com/UNICORDev/exploit-CVE-2021-22204) also on [ExploitDB](https://www.exploit-db.com/exploits/50911)
 - [Exploit for CVE-2021–3560 (Polkit) - Local Privilege Escalation](https://github.com/UNICORDev/exploit-CVE-2021-3560)
 - [Exploit for CVE-2020-5844 (Pandora FMS) - Remote Code Execution](https://github.com/UNICORDev/exploit-CVE-2020-5844) also on [ExploitDB](https://www.exploit-db.com/exploits/50961)
-- [Exploit for CVE-2022–25765 (pdfkit) - Command Injection](https://github.com/UNICORDev/exploit-CVE-2022-25765)
+- [Exploit for CVE-2022–25765 (pdfkit) - Command Injection](https://github.com/UNICORDev/exploit-CVE-2022-25765) also on [ExploitDB](https://www.exploit-db.com/exploits/51293)
 
 ## Tools
 
