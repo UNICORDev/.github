@@ -32,7 +32,3 @@ We want to make contributions to the information security community while we lea
 - [Exploit for CVE-2020-5844 (Pandora FMS) - Remote Code Execution](https://github.com/UNICORDev/exploit-CVE-2020-5844) also on [ExploitDB](https://www.exploit-db.com/exploits/50961)
 - [Exploit for CVE-2022–25765 (pdfkit) - Command Injection](https://github.com/UNICORDev/exploit-CVE-2022-25765) also on [ExploitDB](https://www.exploit-db.com/exploits/51293)
 - [Exploit for CVE-2025-29927 (Next.js) - Authorization Bypass](https://github.com/UNICORDev/exploit-CVE-2025-29927)
-
-## Tools
-
-- [BOSS - Buffer Overflow the Stack Script](https://github.com/UNICORDev/BOSS) (Coming Soon!)
